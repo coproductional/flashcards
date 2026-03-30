@@ -17709,7 +17709,7 @@ s=5
 break
 case 6:A.i5("no key")
 s=8
-return A.T(A.amm(A.hL("/api/"+a)),$async$o_)
+return A.T(A.amm(A.hL("/flashcards/api/"+a)),$async$o_)
 case 8:m=c
 l=m.b
 s=l===200?9:11
