@@ -1,15 +1,26 @@
 {
-	"title": "Random Vocab Lists",
-	"content": [
+	"title": "Book 3 Lesson 2",
+	"type": "lesson",
+	"components": [
 		{
-			"title": "3-3-1 Randoms",
+			"title": "Book 3 Lesson 2",
+			"type": "reference",
+			"file": "unit_3_2.json"
+		},
+		{
+			"title": "Book 2 Flashcards",
+			"type": "reference",
+			"file": "book2_vocab.json"
+		},
+		{
+			"title": "Random Vocabs 1",
 			"type": "vocab",
 			"cn": ["實際", "烤肉", "季節", "讓", "浪漫", "到處", "櫻花", "句話說", "後母", "臉", "變化", "變化", "差", "總是", "發霉", "除濕機", "雨季", "涼快", "潮濕", "底", "熱帶", "聚"],
 			"pn": ["shíjì", "kǎoròu", "jìjié", "ràng", "làngmàn", "dàochù", "yīnghuā", "jù huàshuō", "hòu mǔ", "liǎn", "biànhuà", "gèng", "chà", "zǒng shì", "fāméi", "chúshī jī", "yǔjì", "liángkuai", "cháoshī", "dǐ", "rèdài", "jù"],
 			"en": ["actual", "barbecue", "season", "let/invite", "romantic", "everywhere", "cherry blossoms", "in short", "stepmother", "face", "change", "even more", "difference", "always", "get moldy", "dehumidifier", "rainy season", "cool (temperature)", "damp", "end", "tropical", "gather"]
 		},
 		{
-			"title": "3-2-? Randoms",
+			"title": "Random Vocabs 2",
 			"type": "vocab",
 			"cn": ["存","蛋","段話","翻譯","煮","餡兒","鄉下","習慣","材料","合約","掉","生我的氣","偷走","玻璃", "瓶","破","濕了","一直","科系","訂房間","墾丁","活潑","繳費","建議","願意","修理","複雜","解釋","包括","親戚","放心地","一拿到","剛到","差一點","流利","當", "外交", "人員","可惜","教授","討論", "選課","原住民","週年慶","趁","廣告","值得買","簽單","隔天","規定","資料","鹹","亢", "糖", "腳踏車", "世界", "變", "分類", "痲煩", "面談", "順利", "答應", "聲調", "徵求", "輕", "發現", "不合", "留下來", "被", "借", "搭計程車", "被偷"],
 			"pn": ["cún","dàn","duàn huà","fānyì","zhǔ","xiàn er","xiāngxià","xíguàn","cáiliào","héyuē","diào","shēng wǒ de qì","Tōu zǒu","bōlí", "píng","pò","shīle","yīzhí","kē xì","dìngfáng jiān","kěndīng","huópō","jiǎofèi","jiànyì","yuànyì","xiūlǐ","fùzá","jiěshì","bāokuò","qīnqī","fàngxīn dì","yī ná dào","gāng dào","chà yīdiǎn", "liúlì","dāng", "wàijiāo", "rényuán","kěxí","jiàoshòu","tǎolùn", "xuǎnkè","yuán zhùmín","zhōunián qìng","chèn","guǎnggào","zhídé mǎi","qiāndān","gé tiān","guīdìng","zīliào","xián","kàng", "táng", "jiǎotàchē", "shìjiè", "biàn", "fēnlèi", "má fán", "miàntán", "shùnlì", "dāyìng", "shēngdiào", "zhǐqiú", "qīng", "fāxiàn", "bùhé", "liú xiàlái", "bèi", "jiè", "dā jìchéngchē", "bèi tōu"],
