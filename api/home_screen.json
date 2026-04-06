@@ -1,30 +1,42 @@
 {
-	"title": "Book 3 Lesson 2",
+	"title": "Chinese Practice",
 	"type": "lesson",
 	"components": [
 		{
-			"title": "Book 3 Lesson 2",
+			"title": "第三本書，第二課 。 Book 3, Lesson 2",
 			"type": "reference",
 			"file": "unit_3_2.json"
 		},
 		{
-			"title": "Book 2 Flashcards",
+			"title": "第三本書，第三課 。Book 3, Lesson 3",
+			"type": "reference",
+			"file": "unit_3_3.json"
+		},
+		{
+			"title": "第二本書 所有生詞 。 Book 2, All Vocabulary",
 			"type": "reference",
 			"file": "book2_vocab.json"
 		},
 		{
-			"title": "Random Vocabs 1",
+			"title": "Random words 1",
 			"type": "vocab",
-			"cn": ["實際", "烤肉", "季節", "讓", "浪漫", "到處", "櫻花", "句話說", "後母", "臉", "變化", "變化", "差", "總是", "發霉", "除濕機", "雨季", "涼快", "潮濕", "底", "熱帶", "聚"],
+			"cn": ["實際", "烤肉", "季節", "讓", "浪漫", "到處", "櫻花", "句話說", "後母", "臉", "變化", "更", "差", "總是", "發霉", "除濕機", "雨季", "涼快", "潮濕", "底", "熱帶", "聚"],
 			"pn": ["shíjì", "kǎoròu", "jìjié", "ràng", "làngmàn", "dàochù", "yīnghuā", "jù huàshuō", "hòu mǔ", "liǎn", "biànhuà", "gèng", "chà", "zǒng shì", "fāméi", "chúshī jī", "yǔjì", "liángkuai", "cháoshī", "dǐ", "rèdài", "jù"],
 			"en": ["actual", "barbecue", "season", "let/invite", "romantic", "everywhere", "cherry blossoms", "in short", "stepmother", "face", "change", "even more", "difference", "always", "get moldy", "dehumidifier", "rainy season", "cool (temperature)", "damp", "end", "tropical", "gather"]
 		},
 		{
-			"title": "Random Vocabs 2",
+			"title": "Random words 2",
 			"type": "vocab",
 			"cn": ["存","蛋","段話","翻譯","煮","餡兒","鄉下","習慣","材料","合約","掉","生我的氣","偷走","玻璃", "瓶","破","濕了","一直","科系","訂房間","墾丁","活潑","繳費","建議","願意","修理","複雜","解釋","包括","親戚","放心地","一拿到","剛到","差一點","流利","當", "外交", "人員","可惜","教授","討論", "選課","原住民","週年慶","趁","廣告","值得買","簽單","隔天","規定","資料","鹹","亢", "糖", "腳踏車", "世界", "變", "分類", "痲煩", "面談", "順利", "答應", "聲調", "徵求", "輕", "發現", "不合", "留下來", "被", "借", "搭計程車", "被偷"],
 			"pn": ["cún","dàn","duàn huà","fānyì","zhǔ","xiàn er","xiāngxià","xíguàn","cáiliào","héyuē","diào","shēng wǒ de qì","Tōu zǒu","bōlí", "píng","pò","shīle","yīzhí","kē xì","dìngfáng jiān","kěndīng","huópō","jiǎofèi","jiànyì","yuànyì","xiūlǐ","fùzá","jiěshì","bāokuò","qīnqī","fàngxīn dì","yī ná dào","gāng dào","chà yīdiǎn", "liúlì","dāng", "wàijiāo", "rényuán","kěxí","jiàoshòu","tǎolùn", "xuǎnkè","yuán zhùmín","zhōunián qìng","chèn","guǎnggào","zhídé mǎi","qiāndān","gé tiān","guīdìng","zīliào","xián","kàng", "táng", "jiǎotàchē", "shìjiè", "biàn", "fēnlèi", "má fán", "miàntán", "shùnlì", "dāyìng", "shēngdiào", "zhǐqiú", "qīng", "fāxiàn", "bùhé", "liú xiàlái", "bèi", "jiè", "dā jìchéngchē", "bèi tōu"],
 			"en": ["save (a file)","eggs","paragraph","translate","cook?","stuffing","rural","habit","ingredients?","contract","dropped","angry at me","stolen","glass", "bottle","broken","wet","always","department (academic)","book a room","Kenting","lively","payment","suggestion","willing","repair","complex","explanation","include","relatives","reassured","as soon as I get it","just arrived","almost", "fluent","become", "diplomatic", "staff","unfortunately","professor","discuss", "course selection","aboriginal","anniversary celebration","take advantage of","advertisement","worth buying","sign up","the next day","regulations","data","salty","high", "sugar", "bicycle", "world", "change", "classification", "trouble", "interview", "smoothly", "promise", "tone", "seek", "light (weight)", "discovered that", "incompatible", "stay", "passive particle", "borrow", "take a taxi", "stolen"]
+		},
+		{
+			"title": "Random words 3",
+			"type": "vocab",
+			"cn": ["然", "撿", "撿到", "生意", "極了", "經濟", "瞭解", "經濟", "汙染", "珊珊", "環境", "傳統", "端午節", "植物", "利用", "段", "除夕", "大年初一", "按照", "慶祝", "離開", "家鄉", "電腦展", "載", "經驗", "建築", "每一棟", "發燒", "解釋", "快地", "了解", "打工", "聲音", "喉嚨", "輕鬆", "過年過節", "申請", "獎學金", "推薦信", "發生", "糾紛", "放棄", "捨不得", "發炎", "簽名", "獨生女", "手續", "檸檬", "鹽", "擠", "鹹", "急", "擔心", "羨慕", "婚禮", "花", "花光", "節省", "幾句", "調味料", "營養", "研究", "愛", "成績", "將", "繼續", "豬腳麵線", "穩定", "嚐", "注意", "營養"],
+			"pn": ["Rán", "jiǎn", "jiǎn dào", "shēngyì", "jíle", "jīngjì", "liàojiě", "Jīngjì", "Wūrǎn", "Shān shān", "huánjìng", "chuántǒng", "Duānwǔ jié", "Zhíwù", "lìyòng", "duàn", "chúxì", "dà nián chū yī", "ànzhào", "Qìngzhù", "Líkāi", "Jiāxiāng", "Diànnǎo zhǎn", "Zài", "Jīngyàn", "Jiànzhú", "Měi yī dòng", "Fāshāo", "Jiěshì", "Kuài dì", "liǎojiě", "Dǎgōng", "Shēngyīn", "Hóulóng", "Qīngsōng", "Guònián guòjié", "Shēnqǐng", "Jiǎngxuéjīn", "Tuījiàn xìn", "Fāshēng", "Jiūfēn", "Fàngqì", "Shěbudé", "Fāyán", "Qiānmíng", "Dúshēngnǚ", "Shǒuxù", "Níngméng", "yán", "Jǐ", "Xián", "Jí", "Dānxīn", "Xiànmù", "Hūnlǐ", "Huā", "Huā guāng", "Jiéshěng", "Jǐ jù", "Tiáowèi liào", "Yíngyǎng", "Yánjiū", "Ài", "Chéngjī", "Jiāng", "Jìxù", "Zhū jiǎomiàn xiàn", "Wěndìng", "cháng", "Zhùyì", "Yíngyǎng"],
+			"en": ["however", "pick up", "found", "business", "excellent", "economy", "get to know something?", "economy", "pollution", "Shanshan", "environment", "tradition", "dragon boat festival", "plant", "use", "measure word for time period?", "Lunar New Year's eve", "Lunar New Year's Day", "according to", "celebrate", "leave", "hometown", "computer show", "convey", "experience", "architecture", "every building", "fever", "explain", "quickly", "understand", "work to earn a living", "sound", "throat", "easy", "Chinese New Year and other holidays", "Apply", "scholarship", "letter of recommendation", "occur", "dispute", "give up", "Reluctant", "inflamed", "sign (a signature)", "Only child (daughter)", "formalities", "lemon", "salt", "squeezed", "salty", "urgent", "worry", "envious", "wedding", "spend (or flower?)", "spend all the money", "frugal", "a few words", "seasoning", "Nutrition", "research", "love", "score/grade", "will?", "continue", "Pig's feet noodles", "stable", "taste", "pay attention to", "Nutrition"]
 		}
 	]
 }

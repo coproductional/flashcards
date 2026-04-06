@@ -1,0 +1,21 @@
+
+from 3/3 reading:
+
+
+
+From grammars:
+
+g2
+
+ 
+
+["然", "撿", "撿到", "生意", "極了", "經濟", "瞭解", "經濟", "汙染", "珊珊", "環境", "傳統", "端午節", "植物", "利用", "段", "除夕", "大年初一", "按照", "慶祝", "離開", "家鄉", "電腦展", "載", "經驗", "建築", "每一棟", "發燒", "解釋", "快地", "了解", "打工", "聲音", "喉嚨", "輕鬆", "過年過節", "申請", "獎學金", "推薦信", "發生", "糾紛", "放棄", "捨不得", "發炎", "簽名", "獨生女", "手續", "檸檬", "鹽", "擠", "鹹", "急", "擔心", "羨慕", "婚禮", "花", "花光", "節省", "幾句", "調味料", "營養", "研究", "愛", "成績", "將", "繼續", "豬腳麵線", "穩定", "嚐", "注意", "營養"]
+
+["Rán", "jiǎn", "jiǎn dào", "shēngyì", "jíle", "jīngjì", "liàojiě", "Jīngjì", "Wūrǎn", "Shān shān", "huánjìng", "chuántǒng", "Duānwǔ jié", "Zhíwù", "lìyòng", "duàn", "chúxì", "dà nián chū yī", "ànzhào", "Qìngzhù", "Líkāi", "Jiāxiāng", "Diànnǎo zhǎn", "Zài", "Jīngyàn", "Jiànzhú", "Měi yī dòng", "Fāshāo", "Jiěshì", "Kuài dì", "liǎojiě", "Dǎgōng", "Shēngyīn", "Hóulóng", "Qīngsōng", "Guònián guòjié", "Shēnqǐng", "Jiǎngxuéjīn", "Tuījiàn xìn", "Fāshēng", "Jiūfēn", "Fàngqì", "Shěbudé", "Fāyán", "Qiānmíng", "Dúshēngnǚ", "Shǒuxù", "Níngméng", "yán", "Jǐ", "Xián", "Jí", "Dānxīn", "Xiànmù", "Hūnlǐ", "Huā", "Huā guāng", "Jiéshěng", "Jǐ jù", "Tiáowèi liào", "Yíngyǎng", "Yánjiū", "Ài", "Chéngjī", "Jiāng", "Jìxù", "Zhū jiǎomiàn xiàn", "Wěndìng", "cháng", "Zhùyì", "Yíngyǎng"]
+
+["however", "pick up", "found", "business", "excellent", "economy", "get to know something?", "economy", "pollution", "Shanshan", "environment", "tradition", "dragon boat festival", "plant", "use", "measure word for time period?", "Lunar New Year's eve", "Lunar New Year's Day", "according to", "celebrate", "leave", "hometown", "computer show", "convey", "experience", "architecture", "every building", "fever", "explain", "quickly", "understand", "work to earn a living", "sound", "throat", "easy", "Chinese New Year and other holidays", "Apply", "scholarship", "letter of recommendation", "occur", "dispute", "give up", "Reluctant", "inflamed", "sign (a signature)", "Only child (daughter)", "formalities", "lemon", "salt", "squeezed", "salty", "urgent", "worry", "envious", "wedding", "spend (or flower?)", "spend all the money", "frugal", "a few words", "seasoning", "Nutrition", "research", "love", "score/grade", "will?", "continue", "Pig's feet noodles", "stable", "taste", "pay attention to", "Nutrition"]
+  
+  
+  
+  
+  

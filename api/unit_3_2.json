@@ -1,48 +1,35 @@
 {
 	"title": "Book 3 Lesson 2",
 	"type": "lesson",
-	"types": [
-		"reading",
-		"reading",
-		"vocab",
-		"vocab",
-		"grammar",
-		"grammar",
-		"grammar",
-		"grammar",
-		"grammar",
-		"grammar",
-		"grammar"
-	],
 	"components": [
 		{
-			"title": "Dialogue",
+			"title": "對話：在百貨公司裡",
 			"type": "reading",
 			"content": "（在百貨公司裡）\n羅珊蒂：謝謝妳陪我來買外套。沒想到今天人這麽多。\n何雅婷：現在百貨公司周年慶。一般來說，周年慶的時候大部分的商品都會有不錯的折扣。很多人趁這時候來買需要的東西，可以省不少錢。這個牌子品質不錯，選擇也多，我們進去看看吧。\n（何雅婷指著一件衣服要羅珊蒂看）\n何雅婷：妳看，這件黃色的樣子不錯，摸起來也很舒服。妳覺得怎麽樣？\n羅珊蒂：我比較喜歡那件咖啡色的。\n何雅婷：妳還是兩件都拿去試穿吧。有時候得穿上才知道好看不好看。\n店員：小姐，這件外套妳穿起來真漂亮。大小，長短都很合適，顔色也好看，而且是羊毛的，又輕又暖和。\n何雅婷：這件打完折多小錢？\n店員：原價3,900，現在九折，打完折3,510，算妳3,500.\n何雅婷：廣告上不是寫八折嗎？\n店員：不好意思，是八折起。那件八折，可是這件打九折。\n何雅婷：羊毛外套3,500，雖然不便宜，可是品質不錯，樣子也好，值得買。\n羅珊蒂：好吧。我就買這件。\n店員：刷卡還是付現金？今天刷Visa卡，可以再打九五折。\n羅珊蒂：那就刷卡。\n店員：請等我一下。（拿著簽單跟發票回來）麻煩妳在這裏簽名。謝謝。歡迎下次再來。\n（羅珊蒂隔天回百貨公司要求退換）\n羅珊蒂：我昨天買的這件外套，裡面破了一個洞。我要換一件新的。\n店員：請問妳帶發票來了嗎？\n羅珊蒂：我弄丟了，找不到。\n店員：那不好意思。按照我們公司的規定，沒有發票不能退換。\n羅珊蒂：我昨天是刷卡買的，你們應該查得到資料。再説，衣服有問題也不是我的錯。\n店員：對不起，對不起。請等一下，我去問問店長。"
 		},
 		{
-			"title": "Reading",
-			"type": "reading",
-			"content": "購物糾紛\n安德思上個月在電信辦了一支新手機。他剛到台灣的時候，用的是預付卡，所以一拿到居留證就馬上去換成月租型的。店員告訴他，一個月只要一千多塊就能吃到包。安德思高興得不得了，就放心地給親戚朋友打電話。沒想到前幾天收到賬單，一看要三千多塊，嚇了他一大跳。\n他馬上找何雅婷陪他去問清楚。店員告訴他，按照合約，吃到飽只是網路，並不包括打電話。何雅婷聽了店員的解釋，非常生氣。外國人怎麽看得懂這麽複雜的中文合約？店員應該把重要的事情跟顧客説清楚，尤其是對外國人的時候。這不是騙人嗎？何雅婷把電源駡了一頓，可是一點辦法也沒有。\n回家的路上，何雅婷告訴安德思，她在報上看到過不少買手機的糾紛。有人剛買的新手機常常自動關機，修理了幾次都修不好，可是電信公司不願意換新的給他。還有人手機聼不清楚，電信公司也說是因爲他們住在山邊，不同意退錢。何雅婷建議安德思給電信公司的客服中心打電話。要是還不行，就只好去繳費了。"
-		},
-		{
-			"title": "Vocab I",
+			"title": "生詞 1",
 			"type": "vocab",
 			"cn": ["起", "外套", "一般", "商品", "折扣", "省", "牌子", "品質", "選擇", "樣子", "摸", "店員", "短", "羊毛", "暖和", "打折", "原價", "刷卡", "現金", "麻煩", "簽名", "破洞", "發票", "弄", "退", "換", "店長", "周年慶", "一般來説", "試穿", "打完折", "弄丟"],
 			"pn": ["qǐ", "wàitào", "yībān", "shāngpǐn", "zhékòu", "shěng", "páizǐ", "pǐnzhí", "xuǎnzé", "yàngzǐ", "mō", "diànyuán", "duǎn", "yángmáo", "nuǎnhuo", "dǎzhé", "yuánjià", "shuākǎ", "xiànjīn", "máfan", "qiānmíng", "pò dòng", "fāpiào", "nòng", "tuì", "huàn", "diànzhǎng", "zhōunián qìng", "yībān lái shuō", "shì chuān", "dǎ wán zhé", "nòng diū"],
 			"en": ["starting from...", "coat, jacket", "generally; in general", "goods, commodities", "discount", "to save, to put away", "brand", "quality", "choices", "appearance, looks", "to feel, to touch", "salesperson, store employee, clerk", "short", "lamb's wool", "warm", "to offer a discount", "original price", "to swipe, i.e., use a credit card", "cash", "please (lit. allow me to trouble you)", "to sign", "to have a hole", "receipt", "(pro-verb) to cause, to do", "to return (purchases)", "to exchange", "store manager", "anniversary", "generally speaking", "to try on (garments)", "after discount", "to lose"]
 		},
 		{
-			"title": "Vocab II",
+			"title": "短文：購物糾紛",
+			"type": "reading",
+			"content": "購物糾紛\n安德思上個月在電信辦了一支新手機。他剛到台灣的時候，用的是預付卡，所以一拿到居留證就馬上去換成月租型的。店員告訴他，一個月只要一千多塊就能吃到包。安德思高興得不得了，就放心地給親戚朋友打電話。沒想到前幾天收到賬單，一看要三千多塊，嚇了他一大跳。\n他馬上找何雅婷陪他去問清楚。店員告訴他，按照合約，吃到飽只是網路，並不包括打電話。何雅婷聽了店員的解釋，非常生氣。外國人怎麽看得懂這麽複雜的中文合約？店員應該把重要的事情跟顧客説清楚，尤其是對外國人的時候。這不是騙人嗎？何雅婷把電源駡了一頓，可是一點辦法也沒有。\n回家的路上，何雅婷告訴安德思，她在報上看到過不少買手機的糾紛。有人剛買的新手機常常自動關機，修理了幾次都修不好，可是電信公司不願意換新的給他。還有人手機聼不清楚，電信公司也說是因爲他們住在山邊，不同意退錢。何雅婷建議安德思給電信公司的客服中心打電話。要是還不行，就只好去繳費了。"
+		},
+		{
+			"title": "生詞 2",
 			"type": "vocab",
 			"cn": ["購物", "糾紛", "電信", "門市", "居留證", "月租型", "賬單", "並", "包括", "解釋", "顧客", "尤其", "騙", "頓", "辦法", "自動", "關機", "修理", "繳費", "預付卡", "換成", "吃到飽", "嚇一跳", "客服中心"],
 			"pn": ["gòuwù", "jiūfēn", "diànxìn", "ménshì", "jūliú zhèng", "yuè zū xíng", "zhàngdān", "bìng", "bāokuò", "jiěshì", "gùkè", "yóuqí", "piàn", "dùn", "bànfǎ", "zìdòng", "guānjī", "xiūlǐ", "jiǎofèi", "yùfù kǎ", "huàn chéng", "chī dào bǎo", "xià yī tiào", "kèfù zhōngxīn"],
 			"en": ["to go shopping", "dispute", "telecommunications", "retail outlet", "Alien Resident Certificate (ARC in Taiwan)", "a monthly plan", "bill", "contrary to assumption (followed by a negative statement)", "to include", "explanation", "customer", "especially, in particular", "to cheat, to swindle", "verbal measure word for a duration of action", "solution", "by itself, on its own, automatically", "to turn off, to shut down", "to repair", "to pay a fee", "prepaid SIM card", "to change to", "unlimited data (lit. all you can eat)", "shocked, startled, taken aback", "customer service center"]
 		},
 		{
-			"title": "一般來説",
+			"title": "文法 1：一般來説",
 			"type": "grammar",
-			"cn": "一般來説",
+			"cn": "文法 1：一般來説",
 			"examples": [
 				"一般來説，個性活潑，外語能力好的學生很適合念國際關係系。",
 				"在台灣，一般來説，退換商品的時候都帶發票。",
@@ -59,9 +46,9 @@
 			]
 		},
 		{
-			"title": "弄",
+			"title": "文法 2：弄",
 			"type": "grammar",
-			"cn": "弄",
+			"cn": "文法 2：弄",
 			"examples": [
 				"你坐一下，我去弄飯。等一下就可以吃了。",
 				"你別一直弄我的衣服。",
@@ -78,9 +65,9 @@
 			]
 		},
 		{
-			"title": "再説",
+			"title": "文法 3：再説",
 			"type": "grammar",
-			"cn": "再説",
+			"cn": "文法 3：再説",
 			"examples": [
 				"還是刷卡吧。我沒帶那麽多現金。再説，刷卡還可以再打九五折。",
 				"電信公司的中文合約那麽長。再説，安德思是外國人。怎麽可能看得懂？",
@@ -97,9 +84,9 @@
 			]
 		},
 		{
-			"title": "V + 成",
+			"title": "文法 4：V + 成",
 			"type": "grammar",
-			"cn": "V + 成",
+			"cn": "文法 4：V + 成",
 			"examples": [
 				"你看！你把餃子包成什麽樣子了？",
 				"我看不懂西班牙文。你能不能幫我把這段話翻譯成中文？",
@@ -116,9 +103,9 @@
 			]
 		},
 		{
-			"title": "並",
+			"title": "文法 5：並",
 			"type": "grammar",
-			"cn": "並",
+			"cn": "文法 5：並",
 			"examples": [
 				"你們爲什麽都來問我？我並不知道怎麽包餃子啊。",
 				"這些菜的作法雖然簡單，但是味道並不差。",
@@ -135,9 +122,9 @@
 			]
 		},
 		{
-			"title": "尤其是",
+			"title": "文法 6：尤其是",
 			"type": "grammar",
-			"cn": "尤其是",
+			"cn": "文法 6：尤其是",
 			"examples": [
 				"這學期的功課給他很大的壓力，尤其是口頭報告。",
 				"過春節，小孩都很開心，尤其是拿紅包的時候。",
@@ -154,9 +141,9 @@
 			]
 		},
 		{
-			"title": "只好",
+			"title": "文法 7：只好",
 			"type": "grammar",
-			"cn": "只好",
+			"cn": "文法 7：只好",
 			"examples": [
 				"電信公司的門是不能刷卡，顧客只好付現金。",
 				"他好不容易考上熱門科系，可惜念了一個學期發現興趣不合，只好轉系。",
