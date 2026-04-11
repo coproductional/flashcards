@@ -15,7 +15,12 @@ g2
 
 ["however", "pick up", "found", "business", "excellent", "economy", "get to know something?", "economy", "pollution", "Shanshan", "environment", "tradition", "dragon boat festival", "plant", "use", "measure word for time period?", "Lunar New Year's eve", "Lunar New Year's Day", "according to", "celebrate", "leave", "hometown", "computer show", "convey", "experience", "architecture", "every building", "fever", "explain", "quickly", "understand", "work to earn a living", "sound", "throat", "easy", "Chinese New Year and other holidays", "Apply", "scholarship", "letter of recommendation", "occur", "dispute", "give up", "Reluctant", "inflamed", "sign (a signature)", "Only child (daughter)", "formalities", "lemon", "salt", "squeezed", "salty", "urgent", "worry", "envious", "wedding", "spend (or flower?)", "spend all the money", "frugal", "a few words", "seasoning", "Nutrition", "research", "love", "score/grade", "will?", "continue", "Pig's feet noodles", "stable", "taste", "pay attention to", "Nutrition"]
   
-  
-  
-  
-  
+Workbook
+討厭  直接	展覽館	能力	抱怨	糊塗	考慮	約好
+Tǎoyàn	Zhíjiē	Zhǎnlǎn guǎn	Nénglì	Bàoyuàn	Hútú	Kǎolǜ	Yuē hǎo
+Hate	direct	Exhibition Hall	capable	complain	muddleheaded	consider	agreed
+
+伯母
+
+要好好地把事情說
+

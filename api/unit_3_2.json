@@ -12,7 +12,8 @@
 			"type": "vocab",
 			"cn": ["起", "外套", "一般", "商品", "折扣", "省", "牌子", "品質", "選擇", "樣子", "摸", "店員", "短", "羊毛", "暖和", "打折", "原價", "刷卡", "現金", "麻煩", "簽名", "破洞", "發票", "弄", "退", "換", "店長", "周年慶", "一般來説", "試穿", "打完折", "弄丟"],
 			"pn": ["qǐ", "wàitào", "yībān", "shāngpǐn", "zhékòu", "shěng", "páizǐ", "pǐnzhí", "xuǎnzé", "yàngzǐ", "mō", "diànyuán", "duǎn", "yángmáo", "nuǎnhuo", "dǎzhé", "yuánjià", "shuākǎ", "xiànjīn", "máfan", "qiānmíng", "pò dòng", "fāpiào", "nòng", "tuì", "huàn", "diànzhǎng", "zhōunián qìng", "yībān lái shuō", "shì chuān", "dǎ wán zhé", "nòng diū"],
-			"en": ["starting from...", "coat, jacket", "generally; in general", "goods, commodities", "discount", "to save, to put away", "brand", "quality", "choices", "appearance, looks", "to feel, to touch", "salesperson, store employee, clerk", "short", "lamb's wool", "warm", "to offer a discount", "original price", "to swipe, i.e., use a credit card", "cash", "please (lit. allow me to trouble you)", "to sign", "to have a hole", "receipt", "(pro-verb) to cause, to do", "to return (purchases)", "to exchange", "store manager", "anniversary", "generally speaking", "to try on (garments)", "after discount", "to lose"]
+			"en": ["starting from...", "coat, jacket", "generally; in general", "goods, commodities", "discount", "to save, to put away", "brand", "quality", "choices", "appearance, looks", "to feel, to touch", "salesperson, store employee, clerk", "short", "lamb's wool", "warm", "to offer a discount", "original price", "to swipe, i.e., use a credit card", "cash", "please (lit. allow me to trouble you)", "to sign", "to have a hole", "receipt", "(pro-verb) to cause, to do", "to return (purchases)", "to exchange", "store manager", "anniversary", "generally speaking", "to try on (garments)", "after discount", "to lose"],
+			"jp": ["開始", "アウターウェア", "一般", "製品", "割引", "節約", "ブランド", "品質", "選択", "スタイル", "タッチ", "販売員", "ショート", "ウール", "暖かい", "割引", "元値", "クレジットカード", "現金", "トラブル", "署名", "穴", "請求書", "入手", "返金", "交換", "店長", "アニバーサリーセール", "一般的に言って", "試着", "割引後", "紛失"]
 		},
 		{
 			"title": "短文：購物糾紛",
@@ -24,7 +25,8 @@
 			"type": "vocab",
 			"cn": ["購物", "糾紛", "電信", "門市", "居留證", "月租型", "賬單", "並", "包括", "解釋", "顧客", "尤其", "騙", "頓", "辦法", "自動", "關機", "修理", "繳費", "預付卡", "換成", "吃到飽", "嚇一跳", "客服中心"],
 			"pn": ["gòuwù", "jiūfēn", "diànxìn", "ménshì", "jūliú zhèng", "yuè zū xíng", "zhàngdān", "bìng", "bāokuò", "jiěshì", "gùkè", "yóuqí", "piàn", "dùn", "bànfǎ", "zìdòng", "guānjī", "xiūlǐ", "jiǎofèi", "yùfù kǎ", "huàn chéng", "chī dào bǎo", "xià yī tiào", "kèfù zhōngxīn"],
-			"en": ["to go shopping", "dispute", "telecommunications", "retail outlet", "Alien Resident Certificate (ARC in Taiwan)", "a monthly plan", "bill", "contrary to assumption (followed by a negative statement)", "to include", "explanation", "customer", "especially, in particular", "to cheat, to swindle", "verbal measure word for a duration of action", "solution", "by itself, on its own, automatically", "to turn off, to shut down", "to repair", "to pay a fee", "prepaid SIM card", "to change to", "unlimited data (lit. all you can eat)", "shocked, startled, taken aback", "customer service center"]
+			"en": ["to go shopping", "dispute", "telecommunications", "retail outlet", "Alien Resident Certificate (ARC in Taiwan)", "a monthly plan", "bill", "contrary to assumption (followed by a negative statement)", "to include", "explanation", "customer", "especially, in particular", "to cheat, to swindle", "verbal measure word for a duration of action", "solution", "by itself, on its own, automatically", "to turn off, to shut down", "to repair", "to pay a fee", "prepaid SIM card", "to change to", "unlimited data (lit. all you can eat)", "shocked, startled, taken aback", "customer service center"],
+			"jp": ["ショッピング","紛争","電気通信","店舗","居住許可","月額賃料","請求書","および","含む","説明","顧客","特に","詐欺","スタント","方法","自動","シャットダウン","修理","支払い","プリペイドカード","変更","食べ放題","サプライズ","カスタマーサービスセンター"]
 		},
 		{
 			"title": "文法 1：一般來説",
