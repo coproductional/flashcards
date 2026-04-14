@@ -13,6 +13,11 @@
 			"file": "unit_3_3.json"
 		},
 		{
+			"title": "第三本書，第四課 生詞 3-4 Vocab",
+			"type": "reference",
+			"file": "vocab_3_4.json"
+		},
+		{
 			"title": "第二本書 所有生詞 。 Book 2, All Vocabulary",
 			"type": "reference",
 			"file": "vocab_2_all.json"

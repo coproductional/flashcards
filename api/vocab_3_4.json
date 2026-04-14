@@ -1,0 +1,22 @@
+{
+	"title": "Book 3 Lesson 4",
+	"type": "lesson",
+	"components": [
+		{
+			"title": "生詞 1",
+			"type": "vocab",
+			"cn": ["哎", "人情味", "放", "天燈", "願望", "訊號", "元宵", "牆", "耐心", "感動", "擔仔麵", "招牌", "當地", "賺", "而", "交", "理想", "剛剛", "改天", "無聊", "東區", "煙火", "跨年", "種類", "價錢", "感覺", "雞排", "口", "紅茶", "平溪", "元宵節", "孔廟", "校外教學", "碰到", "水煎包"],
+			"pn": ["Āi", "rénqíngwèi", "fàng", "tiān dēng", "yuànwàng", "xùnhào", "yuánxiāo", "qiáng", "nàixīn", "gǎndòng", "dān zǐ miàn", "zhāopái", "dāngdì", "zhuàn", "ér", "jiāo", "lǐxiǎng", "gānggāng", "gǎitiān", "wúliáo", "dōngqū", "yānhuǒ", "kuà nián", "zhǒnglèi", "jiàqián", "gǎnjué", "jī pái", "kǒu", "hóngchá", "píng xī", "yuánxiāo jié", "kǒngmiào", "xiàowài jiàoxué", "pèng dào", "shuǐ jiān bāo"],
+			"en": ["Hey", "human touch", "release", "sky lantern", "wish", "signal", "Lantern Festival", "shrimp", "patience", "moved", "danzai noodles", "signboard", "local", "earn", "and", "exchange", "ideal", "just now", "another day", "bored", "East District", "fireworks", "New Year's Eve", "variety", "price", "feeling", "chicken cutlet", "mouth", "black tea", "Pingxi", "Lantern Festival", "Confucius Temple", "out-of-school education", "encounter", "pan-fried buns"],
+			"jp": ["ねえ", "人の触れ合い", "解放", "天灯", "願い", "合図", "ランタンフェスティバル", "エビ", "忍耐", "感動", "担仔麺", "看板", "地元", "稼ぐ", "そして", "交換", "理想", "ちょうど今", "別の日", "退屈", "東区", "花火", "大晦日", "多様性", "価格", "気持ち", "チキンカツ", "口", "紅茶", "平渓", "ランタンフェスティバル", "孔子廟", "課外教育", "出会い", "焼きまんじゅう"]
+		},
+		{
+			"title": "生詞 2",
+			"type": "vocab",
+			"cn": ["同事", "美食", "上", "泡", "錯過", "營業", "夜景", "古老", "古蹟", "重視", "歷史", "風俗", "習慣", "道地", "粥", "講究", "頓", "速度", "窄", "街道", "蓋", "待", "欣賞", "美麗", "鈴木", "赤崁樓", "留下來", "木造", "非去不可"],
+			"pn": ["Tóngshì", "měishí", "shàng", "pào", "cuòguò", "yíngyè", "yèjǐng", "gǔlǎo", "gǔjī", "zhòngshì", "lìshǐ", "fēngsú", "xíguàn", "dào dì", "zhōu", "jiǎngjiù", "dùn", "sùdù", "zhǎi", "jiēdào", "gài", "dài", "xīnshǎng", "měilì", "língmù", "chì kàn lóu", "liú xiàlái", "mùzào", "fēi qù bùkě"],
+			"en": ["Colleague", "Food", "Up", "Soak", "Missed", "Open", "Night View", "Ancient", "Historical Site", "Important", "History", "Customs", "Habits", "Authentic", "Porridge", "Elaborate", "Snack", "Speed", "Narrow", "Street", "Covered", "Wait", "Appreciate", "Beautiful", "Suzuki", "Chikan Tower", "Stay", "Wooden", "Must Go"],
+			"jp": ["同僚", "食べ物", "上", "浸る", "見逃した", "開いている", "夜景", "古代", "史跡", "重要", "歴史", "風習", "習慣", "本格的", "お粥", "凝った", "軽食", "スピード", "狭い", "通り", "屋根付き", "待つ", "感謝する", "美しい", "鈴木", "痴漢塔", "滞在", "木造", "必ず行くべき"]
+		}
+	]
+}
