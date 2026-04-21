@@ -1,0 +1,14 @@
+{
+	"title": "Unit 1",
+	"type": "lesson",
+	"components": [
+		{
+			"title": "words 1",
+			"type": "vocab",
+			"cn": ["？", "付稅", "服務", "興趣", "流行", "家庭", "發財", "可笑", "玩笑", "隨便", "同事", "難怪", "職員", "認真", "約會", "對象", "陪", "犯人", "閉上", "?", "輪椅", "曬", "太陽", "推著", "也許", "照顧", "年紀", "想像", "平常", "看護工", "護照", "？", "國竟", "國籍", "證明", "文件", "外交", "保護", "申請", "名片", "網路", "資訊"],
+			"pn": ["?", "Fù shuì", "fúwù", "xìngqù", "liúxíng", "jiātíng", "fācái", "kěxiào", "wánxiào", "suíbiàn", "tóngshì", "nánguài", "zhíyuán", "rènzhēn", "yuēhuì", "duìxiàng", "péi", "fànrén", "bì shàng", "?", "Lúnyǐ", "shài", "tàiyáng", "tuīzhe", "yěxǔ", "zhàogù", "niánjì", "xiǎngxiàng", "píngcháng", "kānhù gōng", "hùzhào", "?", "Guó jìng", "guójí", "zhèngmíng", "wénjiàn", "wàijiāo", "bǎohù", "shēnqǐng", "míngpiàn", "wǎng lù", "zīxùn"],
+			"en": ["?", "pay taxes", "services", "interests", "popular", "family", "get rich", "ridiculous", "joke", "casual", "colleague", "no wonder", "employee", "serious", "date", "partner", "accompany", "prisoner", "close", "?", "wheelchair", "sunbathe", "sun", "pushing", "maybe", "care", "age", "imagine", "normal", "caregiver", "passport", "?", "country", "nationality", "proof", "document", "diplomacy", "protection", "application", "business card", "internet", "information"],
+			"jp": []
+		}
+	]
+}

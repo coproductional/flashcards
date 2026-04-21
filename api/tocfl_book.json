@@ -1,0 +1,56 @@
+{
+	"title": "The Ultimate Guide to CHINESE Vocabulary & TOCFL",
+	"type": "lesson",
+	"components": [
+		{
+			"title": "Unit 1",
+			"type": "reference",
+			"file": "tocfl_unit_1.json"
+		},
+		{
+			"title": "Unit 2",
+			"type": "reference",
+			"file": "tocfl_unit_2.json"
+		},
+		{
+			"title": "Unit 3 日常生活",
+			"type": "reference",
+			"file": "tocfl_unit_3.json"
+		},
+		{
+			"title": "Unit 4",
+			"type": "reference",
+			"file": "tocfl_unit_4.json"
+		},
+		{
+			"title": "Unit 5 飲食",
+			"type": "reference",
+			"file": "tocfl_unit_5.json"
+		},
+		{
+			"title": "Unit 6",
+			"type": "reference",
+			"file": "tocfl_unit_6.json"
+		},
+		{
+			"title": "Unit 7",
+			"type": "reference",
+			"file": "tocfl_unit_7.json"
+		},
+		{
+			"title": "Unit 8 旅行",
+			"type": "reference",
+			"file": "tocfl_unit_8.json"
+		},
+		{
+			"title": "Unit 9 個人",
+			"type": "reference",
+			"file": "tocfl_unit_9.json"
+		},
+		{
+			"title": "Unit 10 教",
+			"type": "reference",
+			"file": "tocfl_unit_10.json"
+		}
+	]
+}

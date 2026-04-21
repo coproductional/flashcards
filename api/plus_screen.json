@@ -18,6 +18,11 @@
 			"file": "vocab_3_4.json"
 		},
 		{
+			"title": "TOCFL Vocab",
+			"type": "reference",
+			"file": "tocfl_book.json"
+		},
+		{
 			"title": "第二本書 所有生詞 。 Book 2, All Vocabulary",
 			"type": "reference",
 			"file": "vocab_2_all.json"
@@ -45,6 +50,13 @@
 			"pn": ["Rán", "jiǎn", "jiǎn dào", "shēngyì", "jíle", "jīngjì", "wūrǎn", "shān shān", "huánjìng", "chuántǒng", "duānwǔ jié", "zhíwù", "lìyòng", "duàn", "chúxì", "dà nián chū yī", "ànzhào", "qìngzhù", "líkāi", "jiāxiāng", "diànnǎo zhǎn", "Zài", "jīngyàn", "jiànzhú", "měi yī dòng", "fāshāo", "jiěshì", "kuài dì", "liǎojiě", "Dǎgōng", "shēngyīn", "hóulóng", "qīngsōng", "guònián guòjié", "shēnqǐng", "jiǎngxuéjīn", "tuījiàn xìn", "fāshēng", "jiūfēn", "Fàngqì", "shěbudé", "fāyán", "qiānmíng", "dúshēngnǚ", "shǒuxù", "níngméng", "yán", "jǐ", "Xián", "Jí", "dānxīn", "xiànmù", "hūnlǐ", "huā guāng", "jiéshěng", "jǐ jù", "tiáowèi liào", "yíngyǎng", "Yánjiū", "Ài", "chéngjī", "jiāng", "jìxù", "zhū jiǎomiàn xiàn", "Wěndìng", "cháng", "Zhùyì", "yíngyǎng"],
 			"en": ["however", "pick up", "found", "business", "excellent", "economy", "pollution", "Shanshan", "environment", "tradition", "dragon boat festival", "plant", "use", "measure word for time period?", "Lunar New Year's eve", "Lunar New Year's Day", "according to", "celebrate", "leave", "hometown", "computer show", "convey", "experience", "architecture", "every building", "fever", "explain", "quickly", "understand", "work to earn a living", "sound", "throat", "easy", "Chinese New Year and other holidays", "Apply", "scholarship", "letter of recommendation", "occur", "dispute", "give up", "Reluctant", "inflamed", "sign (a signature)", "Only child (daughter)", "formalities", "lemon", "salt", "squeezed", "salty", "urgent", "worry", "envious", "wedding", "spend all the money", "frugal", "a few words", "seasoning", "Nutrition", "research", "love", "score/grade", "will?", "continue", "Pig's feet noodles", "stable", "taste", "pay attention to", "Nutrition"],
 			"jp": ["しかし","拾う","見つけた","ビジネス","素晴らしい","経済","汚染","山山","環境","伝統","龍舟祭","植物","使用する","期間を測る言葉ですか？","旧正月の前夜","旧正月当日","～によると","祝う","去る","故郷","コンピュータショー","伝える","経験","建築","すべての建物","熱","説明する","すぐに","理解する","生計を立てるために働く","音","喉","簡単","旧正月とその他の祝日","申し込む","奨学金","推薦状","発生する","論争","諦める","気が進まない","炎症を起こした","署名する","一人っ子（娘）","形式", "レモン","塩","絞った","塩辛い","緊急","心配","羨ましい","結婚式","全財産を使う","倹約家","一言","調味料","栄養","研究","愛","点数/評価","意思","続ける","豚足麺","安定","味","注意する","栄養"]
+		},
+		{
+			"title": "Book 1 selected words",
+			"type": "vocab",
+			"cn": ["伯母", "兄弟", "微波", "外帶", "內用", "照相", "怡君", "花蓮", "風景", "游泳泡", "結束", "鐘頭", "舒服", "參觀", "故宮博物館", "載", "公共汽車", "計程車", "影片", "大概", "建議", "貓空", "香", "笑", "矮", "乾淨", "窗戶", "往", "客廳", "廚房", "浴室", "兩間空房間", "套房", "喂", "習慣", "熱水器", "好像", "裝有線", "裝有線電視?", "計畫", "獎學金", "成績", "替", "替我付", "加油", "生意", "當然", "熱心", "不必客氣", "左右", "訂", "豬腳麵線", "傳統", "祝", "萬事如意", "心想事成", "雪", "滑雪", "紅葉", "濕", "討厭", "新聞", "更", "流鼻水", "胃口", "喉嚨", "發炎", "發燒", "感冒", "沒有．．關係", "藥局", "肚子", "吐", "陪", "不用了", "健康保險"],
+			"pn": ["Bómǔ", "xiōngdì", "wéibō", "wàidài", "nèi yòng", "zhàoxiàng", "yí jūn", "huālián", "fēngjǐng", "yóuyǒng pào", "jiéshù", "zhōngtóu", "shūfú", "cānguān", "gùgōng bówùguǎn", "zài", "gōnggòng qìchē", "jìchéngchē", "yǐngpiàn", "dàgài", "jiànyì", "māo kōng", "xiāng", "xiào", "ǎi", "qiánjìng", "chuānghù", "wǎng", "kètīng", "chúfáng", "yùshì", "liǎng jiān kōng fángjiān", "tàofáng", "wèi", "xíguàn", "rèshuǐqì", "hǎoxiàng", "zhuāng yǒuxiàn", "zhuāng yǒuxiàn diànshì?", "Jì huà", "jiǎngxuéjīn", "chéngjī", "tì", "tì wǒ fù", "jiāyóu", "shēngyì", "dāngrán", "rèxīn", "bùbì kèqì", "zuǒyòu", "dìng", "zhū jiǎomiàn xiàn", "chuántǒng", "zhù", "wànshì rúyì", "xīn xiǎng shì chéng", "xuě", "huáxuě", "hóngyè", "shī", "tǎoyàn", "xīnwén", "gèng", "liú bíshuǐ", "wèikǒu", "hóulóng", "fāyán", "fāshāo", "gǎnmào", "méiyǒu.. Guānxì", "yào jú", "dùzǐ", "tǔ", "péi", "bùyòngle", "jiànkāng bǎoxiǎn"],
+			"en": ["Auntie", "Brother", "Microwave", "Takeout", "Dinner", "Photo", "Yi-Jun", "Hualien", "Scenery", "Swimming Bath", "End", "Hour", "Comfortable", "Visit", "National Palace Museum", "Carry", "Bus", "Taxi", "Video", "Probably", "Suggestion", "Maokong", "Fragrance", "Laugh", "Short", "Clean", "Window", "To", "Living Room", "Kitchen", "Bathroom", "Two Empty Rooms", "Suite", "Hey", "Habit", "Water Heater", "Seems", "Install Cable", "Install Cable TV?", "Plan", "Scholarship", "Grade", "For", "Pay for Me", "Go for it", "Business", "Of course", "Enthusiastic", "No need to be polite", "Left and Right", "Order", "Pig's Trotter Noodles", "Traditional", "Wishing", "All the best", "May all your wishes come true", "Snow", "Skiing", "Red Leaves", "Wet", "Dislike", "News", "More", "Runny Nose", "Appetite", "Throat", "Inflammation", "Fever", "Cold", "It's okay", "Pharmacy", "Stomach", "Vomiting", "Accompany", "No need", "Health insurance"]
 		}
 	]
 }
