@@ -44,6 +44,13 @@
 			"title": "TOCFL Vocab",
 			"type": "reference",
 			"file": "tocfl_book.json"
+		},
+		{
+			"title": "5/3",
+			"type": "vocab",
+			"cn": ["塞車", "硏究", "感動", "穿得出", "泡菜", "做出泡菜", "了解", "解釋", "接著", "造成", "目前", "解決", "則", "演講", "推薦", "數字", "情況", "裝滿", "塞滿了", "排滿", "沙灘", "資源回收桶", "兩趟車", "精神", "唉", "成功", "倒楣", "樂團", "體育館", "滿", "興奮", "帥", "迷N", "難過", "現場", "整", "震動", "還是在家好", "怎麼會呢", "內容", "色情", "平板電腦"],
+			"pn": ["Sāichē", "Yán jiū", "gandong?", "chuandequ?", "Pàocài", "zuoqupaocai?", "Liǎojiě", "Jiěshì", "Jiēzhe", "Zàochéng", "Mùqián", "Jiějué", "Zé", "Yǎnjiǎng", "Tuījiàn", "Shùzì", "Qíngkuàng", "zhuāng mǎn", "Sāi mǎnle", "Pái mǎn", "Shātān", "Zīyuán huíshōu tǒng", "Liǎng tàng chē", "Jīngshén", "Āi", "Chénggōng", "Dǎoméi", "Yuètuán", "Tǐyùguǎn", "Mǎn", "Xīngfèn", "Shuài", "Mí", "Nánguò", "Xiànchǎng", "Zhěng", "Zhèndòng", "..",  "..", "Nèiróng", "Sèqíng", ".."],
+			"en": ["traffic jam", "research", "Touching", "wearable", "Kimchi", "make kimchi", "learn", "explain", "then", "cause", "at present", "solve", "but/then", "speech", "recommend", "number", "Condition", "Fully filled", "full", "full (all timeslots full)", "beach", "resource recycling bin", "Two trains", "spirit", "oh", "success", "bad luck", "orchestra", "stadium", "full", "excited", "handsome", "be a fan of N", "sad", "on-site", "entire", "shock", "it's better to stay home", "how could that be?", "content", "pornography", "tablet"]
 		}
 	]
 }

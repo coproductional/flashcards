@@ -31,6 +31,11 @@
 			"title": "Others (etc)",
 			"type": "reference",
 			"file": "other_stuff.json"
+		},
+		{
+			"title": "Book Vocab",
+			"type": "parse_tabs",
+			"file": "ccc.tsv"
 		}
 	]
 }

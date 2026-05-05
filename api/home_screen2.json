@@ -1,0 +1,16 @@
+{
+	"title": "Chinese Practice",
+	"type": "lesson",
+	"components": [
+		{
+			"title": "A Course in Contemporary Chinese Books 1 - 6",
+			"type": "parse_tabs",
+			"file": "ccc.tsv"
+		},
+		{
+			"title": "A Course in Contemporary Chinese Books 1 - 6",
+			"type": "parse_tabs2",
+			"file": "ccc.tsv"
+		}
+	]
+}
