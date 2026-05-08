@@ -8,9 +8,9 @@
 			"file": "ccc.tsv"
 		},
 		{
-			"title": "A Course in Contemporary Chinese Books 1 - 6",
+			"title": "TOCFL Vocab",
 			"type": "parse_tabs2",
-			"file": "ccc.tsv"
+			"file": "tocfl.tsv"
 		}
 	]
 }
