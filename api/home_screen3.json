@@ -1,0 +1,16 @@
+{
+	"title": "Chinese Practice",
+	"type": "lesson",
+	"components": [
+		{
+			"title": "A Course in Contemporary Chinese Books 1 - 6",
+			"type": "reference",
+			"file": "cc.json"
+		},
+		{
+			"title": "TOCFL Vocab",
+			"type": "reference",
+			"file": "tocfl.json"
+		}
+	]
+}
