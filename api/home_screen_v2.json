@@ -1,0 +1,21 @@
+{
+	"title": "Chinese Practice",
+	"type": "lesson",
+	"components": [
+		{
+			"title": "Contemporary Chinese Vocabulary",
+			"type": "reference",
+			"file": "cc.json"
+		},
+		{
+			"title": "Contemporary Chinese Readings",
+			"type": "reference",
+			"file": "readings.json"
+		},
+		{
+			"title": "TOCFL Vocab",
+			"type": "reference",
+			"file": "tocfl_v2.json"
+		}
+	]
+}
