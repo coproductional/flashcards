@@ -1,0 +1,48 @@
+{
+	"title": "Chinese Practice",
+	"type": "lesson",
+	"components": [
+		{
+			"title": "Contemporary Chinese Vocabulary",
+			"type": "reference",
+			"file": "cc.json"
+		},
+		{
+			"title": "Contemporary Chinese Readings",
+			"type": "reference",
+			"file": "readings_v2.json"
+		},
+		{
+			"title": "TOCFL Vocab",
+			"type": "reference",
+			"file": "tocfl_v2.json"
+		},
+		{
+			"title": "What TOCFL Level?",
+			"type": "underliner",
+			"mapFile": "tocfl_map.json",
+			"levelToColor": {
+				"N1": "FFD54F",
+				"N2": "C6FF00",
+				"A1": "4DD0E1",
+				"A2": "FF7043",
+				"B1": "F06292",
+				"B2": "9575CD",
+				"C": "26A69A"
+			}
+		},
+		{
+			"title": "What Book?",
+			"type": "underliner",
+			"mapFile": "ccc_map.json",
+			"levelToColor": {
+				"Book 1": "81D4FA",
+				"Book 2": "A5D6A7",
+				"Book 3": "FFF176",
+				"Book 4": "FFB74D",
+				"Book 5": "F48FB1",
+				"Book 6": "CE93D8"
+			}
+		}
+	]
+}
